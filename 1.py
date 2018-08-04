@@ -1,3 +1,1 @@
-a = 2
-b = 1
-c = 3
+# gogogo fire in the hole
